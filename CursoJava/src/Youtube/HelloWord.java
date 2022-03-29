@@ -6,6 +6,7 @@ public class HelloWord {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Word!!");
 		System.out.println("Projeto Clonado do GitHub!!!");
+		System.out.println("Teste macbook pro!!!");
 	}
 
 }
