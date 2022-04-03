@@ -10,5 +10,9 @@ public class Aviao extends Carro {
 	void aterrizar () {
 		System.out.println("\n---------___________");
 	}
+	
+	void acelerar () {
+		System.out.println("\nEchendo as turbinas!!!!!");
+	}
 
 }
