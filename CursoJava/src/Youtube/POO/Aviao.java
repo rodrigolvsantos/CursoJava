@@ -12,7 +12,7 @@ public class Aviao extends Carro {
 	}
 	
 	void acelerar () {
-		System.out.println("\nEchendo as turbinas!!!!!");
+		System.out.println("\nEnchendo as turbinas!!!!!");
 	}
 
 }

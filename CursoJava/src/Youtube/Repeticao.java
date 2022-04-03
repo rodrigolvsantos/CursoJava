@@ -12,7 +12,7 @@ public class Repeticao {
 		}
 		
 		
-		System.out.println("\n\nTabuada do numero X!!!\n\n");
+		System.out.println("\n\nTabuada do número X!!!\n\n");
 		int resultado = 0;
 		int multiplica = 8;
 	    

@@ -10,7 +10,7 @@ public class Operadores {
 		boolean empregado = true;
 		double i = 10;
 		
-		System.out.println("Operadores aritimeticos e atribuicoes!!");
+		System.out.println("Operadores aritimeticos e atribuições!!");
 		
 		System.out.println("i =  " + i );
 		System.out.println("i = "+ i + " + 5 | i = " + (i + 5));
