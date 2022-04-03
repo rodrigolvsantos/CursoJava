@@ -12,6 +12,8 @@ public class Cessna {
 		System.out.println("Avião: Cessna!!!");
 		System.out.println("Cor: "+ cessna.cor);
 		System.out.println("Ano: " + cessna.ano);
+		System.out.println("Envergadura: " + cessna.envergadura);
+		
 		
 		cessna.ligar();
 		cessna.acelerar();
